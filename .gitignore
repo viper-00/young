@@ -1,9 +1,11 @@
-# Binaries for programs and plugins
+# Ignore Binaries for programs and plugins
 *.exe
 *.exe~
-*.o
 
-# ide plugins
+# Ignore ide plugins
 .idea
 .vscode
 .DS_Store
+
+# Ignore files
+/bin
