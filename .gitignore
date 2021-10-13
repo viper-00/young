@@ -1,0 +1,8 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+
+# ide plugins
+.idea
+.vscode
+.DS_Store
